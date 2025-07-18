@@ -23,3 +23,10 @@ psycopg2
 validators
 youtube-transcript-api
 unstructured
+fastapi
+uvicorn
+openai
+PyMuPDF
+faiss-cpu
+python-multipart
+python-dotenv
